@@ -6,7 +6,7 @@ This project demonstrates how to implement a custom authentication provider in a
 
 - Java Development Kit (JDK) 8 or later
 - Spring Boot 2.x
-- Maven or Gradle build tool
+- Maven build tool
 
 ## Getting Started
 
